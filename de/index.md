@@ -1,0 +1,16 @@
+- ## Prolog
+    - [Übersicht](/{{route}}/{{version}}/overview)
+- ## Playlist Exchange
+    - [Übersicht](/{{route}}/{{version}}/playlist-exchange/overview)
+    - [Konfiguration](/{{route}}/{{version}}/playlist-exchange/configuration)
+    - [Kurator](/{{route}}/{{version}}/playlist-exchange/curator)
+    - [Künstler](/{{route}}/{{version}}/playlist-exchange/artist)
+- ## Audio Management
+    - [Übersicht](/{{route}}/{{version}}/audio-management/overview)
+    - [Konfiguration](/{{route}}/{{version}}/audio-management/configuration)
+    - [Accounts](/{{route}}/{{version}}/audio-management/accounts)
+    - [Lizenzgeber](/{{route}}/{{version}}/audio-management/licensor)
+    - [Labels](/{{route}}/{{version}}/audio-management/labels)
+    - [Tracks](/{{route}}/{{version}}/audio-management/tracks)
+    - [Releases](/{{route}}/{{version}}/audio-management/releases)
+    - [DJ Sets/Mixes](/{{route}}/{{version}}/audio-management/dj-sets)
