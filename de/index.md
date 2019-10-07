@@ -1,5 +1,6 @@
 - ## Prolog
     - [Vision](/{{route}}/{{version}}/vision)
+    - [Konzept](/{{route}}/{{version}}/concept)
 - ## Playlist Exchange
     - [Übersicht](/{{route}}/{{version}}/playlist-exchange/overview)
     - [Konfiguration](/{{route}}/{{version}}/playlist-exchange/configuration)
