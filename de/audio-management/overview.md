@@ -5,19 +5,14 @@
 - About
 
 ## About
-_AFFEKT Audio Management_ is an all-in-one solution to **manage your own music business in the digital era**. A solution to give the professional **edge to your label, sub-labels and artist services**. Wether as a tool to **run your own record-label** or as a **track management** and **promotion tool for artists**, _AFFEKT Audio Management_ is a complete management system for your digital business. _AFFEKT Audio Management_ has been designed with ease-of-use in mind and with the structured approach that important data should only be entered once. Be **independent** of digital distributors with our **multiple distributors management**.
 
-Seamlessly manage your **track catalog** with the integrated easy-to-navigate functions, no matter if you have ten or thousands of tracks. Never lose your **audio masters, demos, contracts or important documents**. Give your artists or sub labels an account to review their sales and statements, to upload content, create releases, and submit them to your master catalog. Communicate with your artists and other business partners within one interface. Review, edit, reject or accept submitted contend.  
-**Manage your releases** and your accounts and generate professional and **detailed statements to send to your licensors**.
+**AFFEKT Audio Managment** ist Deine proffessionelle Softwarelösunge um Deine Vision und Kreativität im modernen Musikgeschäft optimal zu unterstützen und zu begleiten. 
 
-If you have a **question** or **query**, please do not hesitate to **contact the support team**. We're developing the tool steadily and keep you up to date with all new features. We hope you'll enjoy the process!
+Der moderne Weg, um deinen Work Flow mit Labels, Sub-Labels und Artist Services zu professionalisieren und Dir mehr Freiheit für Deine Kreativität zu bieten um Dein Business professionell managen zu könnne.
 
-A detailed list of the features you can find here _[https://www.affekt.de/page/services](https://www.affekt.de/page/services)_
+AFFEKT Audio Management ist ein vollständiges Management-System für dein digitales Musikgeschäft, sei es als Tool um dein eigenes Plattenlabels zu managen oder als Track-Management- und Promotion-Tool für Künstler. 
 
-Contact: _[service@affekt.de](mailto:service@affekt.de)_
+FFEKT Audio Managment wurde mit Blick auf die Benutzerfreundlichkeit und mit dem strukturierten Ansatz entwickelt, dass wichtige Daten nur einmal eingegeben werden sollten. Seien Sie unabhängig von digitalen Distributoren mit unserer Verwaltung mehrerer Distributoren.
 
-## Contributing / Feature Request / Bug Report
 
-Also have a look at our _[Discord Communication Server](https://discord.gg/mGajyrC)._
 
-Found an error? _[Help us fix it](https://jira.affekt.de/plugins/servlet/desk/portal/4/create/50)_

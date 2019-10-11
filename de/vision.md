@@ -11,7 +11,7 @@ Unser Focus liegt hier auf **Audio Management** und **Playlist Exchange** -
 
 **AFFEKT Audio Management** = Der moderne Weg sein eigenes professionelles Plattenlabel zu gründen, zu verwalten, zu monetarisieren und seine musikaliche Vision zu verwirklichen.
 
-**Playlist Exchange** Werden Teil eines riesigen Kuratorennetzwerks und promote deine Tracks an erfolgreiche Spotify-Playlisten.
+**Playlist Exchange** Werde Teil eines riesigen Kuratorennetzwerks und promote deine Tracks an erfolgreiche Spotify-Playlisten.
 
 **AFFEKT - enjoy the process**
 
