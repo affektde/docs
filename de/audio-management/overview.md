@@ -6,17 +6,14 @@
 
 ## About
 
-**AFFEKT Audio Management** ist Deine proffessionelle Softwarelösunge um Deine Vision und Kreativität im modernen Musikgeschäft optimal zu unterstützen und zu begleiten. 
+**AFFEKT Audio Management** ist Deine proffessionelle Softwarelösung um Deine Vision und Kreativität im modernen Musikgeschäft optimal zu unterstützen und die Business Seite im Musikgeschäft so effizient und effektiv zu managen wie ein großes Plattenlabel.
 
-Der moderne Weg, um deinen Work Flow mit Labels, Sub-Labels und Artist Services zu professionalisieren und Dir mehr Freiheit für Deine Kreativität zu bieten.
-... um Dein Business professionell managen zu könnne.
+Affekt ist die moderne Art, Deinen Work Flow mit Labels, Sub-Labels und Artist Services zu professionalisieren um Dir mehr Freiheit für Deine Kreativität zu ermöglichen.
 
-AFFEKT Audio Management ist ein vollständiges Management-System für dein digitales Musikgeschäft, sei es als Tool um dein eigenes Plattenlabels zu managen oder als Track-Management- und Promotion-Tool für Künstler. 
+So ist ***AFFEKT Audio Management*** ein vollständiges Management-System für Dein digitales Musikgeschäft, sei es als Tool um Dein eigenes Plattenlabels zu managen oder als Track-Management- und Promotion-Tool für Künstler. 
 
-AFFEKT Audio Managment wurde mit Blick auf die Benutzerfreundlichkeit und mit dem strukturierten Ansatz entwickelt, dass wichtige Daten nur einmal eingegeben werden sollten. Seien Sie unabhängig von digitalen Distributoren mit unserer Verwaltung mehrerer Distributoren.
+AFFEKT Audio Managment wurde mit Blick auf die Benutzerfreundlichkeit und mit dem strukturierten Ansatz entwickelt, dass wichtige Daten nur einmal eingegeben werden sollten. Affekt ist als "All in one solution" das Herzstück Deines moderen Plattenlabels, Alle Daten, Tracks, Releases sind in unserer Software vereint und du bist unabhängig von digitalen Distributoren durch unserer Verwaltung mehrerer Distributoren.
 
-
-
-... Die effizienteste Software, mit der Du jederzeit die komplette Kostenkontrolle über alle Releases, Künstler,... behällst und somit das Herzstück deines Musik-Ökosystem ...
+Affekt ist Dein Musik-Ökosystem mit einer Vielzahl an innovativen tools und Kooperationsmöglichkeiten für Deine erfolgreiche Karriere im Musik Business.
 
 
