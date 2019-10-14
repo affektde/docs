@@ -17,3 +17,6 @@ AFFEKT Audio Managment wurde mit Blick auf die Benutzerfreundlichkeit und mit de
 
 
 
+... Die effizienteste Software, mit der Du jederzeit die komplette Kostenkontrolle über alle Releases, Künstler,... behällst und somit das Herzstück deines Musik-Ökosystem ...
+
+

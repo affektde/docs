@@ -5,6 +5,6 @@
 - Affekt Sales
 
 ## Sales
-Unter Sales hast du die komplette Kontrolle über die finanzen Deines Labels oder aller Deiner Sublabels und Künstler... 
-runtergebrochen auf Jahre, Quartalszahlen oder    monatliche Verkäufe.
+Unter **Sales/Label Royalties** hast du die komplette Kostenübersicht über deine Verläufe und Streams
+runtergebrochen auf Jahre, Quartalszahlen oder    monatliche Berechnungen.
 
