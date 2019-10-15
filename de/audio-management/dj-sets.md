@@ -5,10 +5,9 @@
 - Affekt DJ Sets
 
 ## DJ Sets
-**AFFEKT DJ Sets** hier hast du den Überblick über all Deine DJ Sets. Du kannst nach einzelnen Atributen filtern, Cover hochladen und Infos editieren und Deine Completten Daten und Infos runterladen.
+**AFFEKT DJ Sets** bietet Dir den optimalen Überblick über all Deine DJ Mixe. Filterere nach einzelnen Atributen, füge Dein Cover hinzu, editiere Infos oder lade alle DJ Sets bezogene Daten hier zur weiteren Verwendung runter. 
 
-Auch hast Du die Möglichkeiten Deine Sets über Affekt gleichzeitig auf Soundcloud und Mixcloud hochzuladen und dort zu posten.
-
+Auch hast Du die Möglichkeiten Deine Mixe gleichzeitig auf Soundcloud und Mixcloud zu veröffentlichen. 
 
 
 

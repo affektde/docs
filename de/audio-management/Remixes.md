@@ -5,8 +5,9 @@
 - Affekt Remixes
 
 ## Remixes
-Unter Remixes findest du alle Remixe Deines Labels.
-Hier kannst du sowohl die Remix-Files als auch die original Master Dateien aller Remixes runterladen.
+AFFEKT **Remixes** zeigt Dir eine Übersicht aller Remix Packages, die Künstler Deines Labels bereitgestell haben.   
+
+Hier kannst du sowohl die einzelnen Remix-Files als auch die original Master Dateien aller Remixes runterladen.   
 
 
 
