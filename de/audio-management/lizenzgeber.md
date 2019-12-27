@@ -1,10 +1,11 @@
-# Licensors
+# Lizenzgeber
 
 ---
 
-- Affekt Licensors
+- [Was sind Lizenzgeber?](#was-sind-lizenzgeber)
 
-## Licensors
+<a name="was-sind-lizenzgeber"></a>
+## Was sind Lizenzgeber?
 Unter **Licensors** kannst Du sowohl **Artists** als auch **Contributors** erstellen und editieren.
 
 
