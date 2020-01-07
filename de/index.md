@@ -1,11 +1,5 @@
 - ## Prolog
     - [Vision](/{{route}}/{{version}}/vision)
-    - [Konzept](/{{route}}/{{version}}/concept)
-- ## Playlist Exchange
-    - [Übersicht](/{{route}}/{{version}}/playlist-exchange/uebersicht)
-    - [Kurator](/{{route}}/{{version}}/playlist-exchange/kurator)
-    - [Künstler](/{{route}}/{{version}}/playlist-exchange/kuenstler)
-    - [Promotion](/{{route}}/{{version}}/playlist-exchange/promotion)
 - ## Audio Management
     - [Übersicht](/{{route}}/{{version}}/audio-management/uebersicht)
     - [Konfiguration](/{{route}}/{{version}}/audio-management/konfiguration)
@@ -16,3 +10,8 @@
     - [Tracks](/{{route}}/{{version}}/audio-management/tracks)
     - [Releases](/{{route}}/{{version}}/audio-management/releases)
     - [DJ Sets/Mixes](/{{route}}/{{version}}/audio-management/dj-sets)
+- ## Playlist Exchange
+    - [Übersicht](/{{route}}/{{version}}/playlist-exchange/uebersicht)
+    - [Kurator](/{{route}}/{{version}}/playlist-exchange/kurator)
+    - [Künstler](/{{route}}/{{version}}/playlist-exchange/kuenstler)
+    - [Promotion](/{{route}}/{{version}}/playlist-exchange/promotion)
