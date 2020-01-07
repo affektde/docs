@@ -3,7 +3,7 @@
 ---
 
 - [Übersicht](#uebersicht)
-- [Exklusivitäts-Typen konfigurieren](#allgemeine-einstellungen)
+- [Allgemeine Einstellungen](#allgemeine-einstellungen)
 - [Module an- und abschalten](#module-an-und-abschalten)
 - [E-Mail Einstellungen](#email-einstellungen)
 - [Sales Einstellungen](#sales-einstellungen)
@@ -13,7 +13,7 @@
 <a name="uebersicht"></a>
 ## Übersicht
 
-### Einstellungen
+### Wo finde ich die Einstellungen?
 Die Einstellungen von Deinem Affekt-System findest Du an zwei Stellen.
 * Klicke das Einstellungen-Symbol auf der Linken Quick-Panel Leiste
 * Klicke auf dein User-Avatar-Bild oben rechts und dann auf SETTINGS
