@@ -1,17 +1,17 @@
 - ## Prolog
     - [Vision](/{{route}}/{{version}}/vision)
 - ## Audio Management
-    - [Übersicht](/{{route}}/{{version}}/audio-management/uebersicht)
-    - [Konfiguration](/{{route}}/{{version}}/audio-management/konfiguration)
+    - [Übersicht](/{{route}}/{{version}}/audio-management/overview)
+    - [Konfiguration](/{{route}}/{{version}}/audio-management/configuration)
     - [Accounts](/{{route}}/{{version}}/audio-management/accounts)
     - [Sales](/{{route}}/{{version}}/audio-management/sales)
-    - [Lizenzgeber](/{{route}}/{{version}}/audio-management/lizenzgeber)
+    - [Lizenzgeber](/{{route}}/{{version}}/audio-management/licensors)
     - [Labels](/{{route}}/{{version}}/audio-management/labels)
     - [Tracks](/{{route}}/{{version}}/audio-management/tracks)
     - [Releases](/{{route}}/{{version}}/audio-management/releases)
     - [DJ Sets/Mixes](/{{route}}/{{version}}/audio-management/dj-sets)
 - ## Playlist Exchange
-    - [Übersicht](/{{route}}/{{version}}/playlist-exchange/uebersicht)
-    - [Kurator](/{{route}}/{{version}}/playlist-exchange/kurator)
-    - [Künstler](/{{route}}/{{version}}/playlist-exchange/kuenstler)
+    - [Übersicht](/{{route}}/{{version}}/playlist-exchange/overview)
+    - [Kurator](/{{route}}/{{version}}/playlist-exchange/curator)
+    - [Künstler](/{{route}}/{{version}}/playlist-exchange/artist)
     - [Promotion](/{{route}}/{{version}}/playlist-exchange/promotion)

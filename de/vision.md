@@ -9,7 +9,7 @@
 ## Die Vision hinter Affekt
 Unser Ziel ist es, die professionellste und innovativste Softwarelösung für digitales Audio Management zu sein.
 Unser Focus liegt hier auf **Audio Management** und **Playlist Exchange**.
-**AFFEKT Audio Management** ist der moderne Weg sein eigenes professionelles Plattenlabel zu gründen, zu verwalten, zu monetarisieren und seine musikaliche Vision zu verwirklichen.
+**AFFEKT Audio Management** ist der moderne Weg sein eigenes professionelles Plattenlabel zu gründen, zu verwalten, zu monetarisieren und seine musikalische Vision zu verwirklichen.
 **Playlist Exchange**: Werde Teil eines riesigen Kuratoren-Netzwerks und promote deine Tracks an erfolgreiche Spotify-Playlisten.
 **AFFEKT - enjoy the process**
 
