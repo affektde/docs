@@ -1,2 +1,17 @@
+- ## Prolog
+    - [Vision](/{{route}}/{{version}}/vision)
+- ## Audio Management
+    - [Overview](/{{route}}/{{version}}/audio-management/overview)
+    - [Configuration](/{{route}}/{{version}}/audio-management/configuration)
+    - [Accounts](/{{route}}/{{version}}/audio-management/accounts)
+    - [Sales](/{{route}}/{{version}}/audio-management/sales)
+    - [Licensors](/{{route}}/{{version}}/audio-management/licensors)
+    - [Labels](/{{route}}/{{version}}/audio-management/labels)
+    - [Tracks](/{{route}}/{{version}}/audio-management/tracks)
+    - [Releases](/{{route}}/{{version}}/audio-management/releases)
+    - [DJ Sets/Mixes](/{{route}}/{{version}}/audio-management/dj-sets)
 - ## Playlist Exchange
     - [Overview](/{{route}}/{{version}}/playlist-exchange/overview)
+    - [Curator](/{{route}}/{{version}}/playlist-exchange/curator)
+    - [Artist](/{{route}}/{{version}}/playlist-exchange/artist)
+    - [Promotion](/{{route}}/{{version}}/playlist-exchange/promotion)
