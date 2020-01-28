@@ -42,3 +42,37 @@ With different actions in the Affekt application you can earn points. There are 
     - +100 points
 - Sent wrong genre or inappropriate track
     - -1.000 points
+    
+    
+# Additionally ? 
+
+---
+
+- [What is  Playlist Exchange?](#what-is-playlist-exchange)
+- [Dashboard](#dashboard)
+
+<a name="what-is-playlist-exchange"></a>
+## What is Playlist Exchange ?
+
+**AFFEKT Playlist Exchange** is an exchange network of playlist owners for streaming platforms. First we set up a Spotify uplink. The app makes it easy to pitch the tracks in your playlists to other playlists.
+
+Be part of a huge network of curators and promote your tracks to successful Spotify playlists.
+
+This way you increase the organic range of your tracks, increase the number of your followers and promote commitment.
+
+<a name="dashboard"></a>
+## Dashboard
+
+The Playlist Exchange **Dashboard** shows you on the left side under **Submissions received** an overview of all submissions which you have already received.
+
+On the right side you will find under **My Submissions** the status of all tracks you have submitted to other playlists.
+
+Under **Playlist Followers** you can see the increase of your followers of all your public playlists as statistics.
+
+
+AFFEKT - let´s rise together
+
+
+    
+    
+    
