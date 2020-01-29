@@ -25,7 +25,7 @@ Ordne dann Deiner Playlist ein "Genre", eine "Headline" und eine "Subtitel" zu u
 
 Auch kannst Du hier einige Konditionen festlegen die der Submitter erfüllen muss, um seinen Track einreichen zu können.
 
-Z.B. Künstler, Playlist oder Track, dem der Submitter folgen muss (optional) oder auch Album welches der Submitter seiner Library hinzufügen muss (optionl).
+Z.B. Künstler, Playlist oder Track, dem der Submitter folgen muss (optional) oder auch Album, welches der Submitter seiner Library hinzufügen muss (optionl).
 
 Du kannst Deine Submission Page jederzeit editieren oder den Link unter **COPY LINK TO CLIPBOARD** kopieren um ihn mit freunden oder Partnern zu teilen.
 
@@ -36,7 +36,7 @@ Neben dem Stift-Symbol zum editieren kanst du Deine neu erstellte Submission Pag
 
 **My Landing Page** ermöglicht es Dir, alle Deine Playlisten auf einer durchsuchbaren Landing page zu präsentieren.
 
-Erstelle einen Namen für Deine Playlist (dieser wird dann auch in den Link kopiert...) sowie "Titel" und "Subtitel" um Deine Playlist zu beschreiben.
+Erstelle einen Namen für Deine Playlist (dieser wird dann auch in den Link kopiert.) sowie "Titel" und "Subtitel" um Deine Playlist zu beschreiben.
 
 Auch kannst Du Deiner Landing Page ein Hintergrundbild sowie ein eigenes Logo hinzufügen.
 
@@ -57,12 +57,12 @@ Am oberen Rand siehst du sofort unter **Submitter´s retutation** eine Anzeige �
 
 Folgende Schritte sind nun zu tun.
 
-1) Höre Dir den eingereichten Titel an und bewerte ob er Dir geffällt und Du ihn in Deine Playlist aufnehmen möchtest oder lehne den eingereichten Titel ab. 
+1) Höre Dir den eingereichten Titel an und bewerte ob er Dir gefällt und Du ihn in Deine Playlist aufnehmen möchtest oder lehne den eingereichten Titel ab. 
 Falls der Titel nicht Deinem Genre entspricht und Du ihn als Spam empfindest, teile es uns bitte über den roten Button **WRONG GENRE / INAPPROPRIATE** mit um den größeten Wert für Dich und andere User zu gewährleisten.
 
 Wenn Dir Der Titel zusagt klicke auf **NEXT**
 
-2) Wähle Die Position aus an der Du den eingereichten Track in Deine Playlist integrieren möchtest.
+2) Wähle Die Position aus, an der Du den eingereichten Track in Deine Playlist integrieren möchtest.
 
 
 3) Unter **Auto remove settings** kannst du ein Datum einstellen an dem der Track automatisch aus Deiner Playlist entfernt wird.

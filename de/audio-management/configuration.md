@@ -14,16 +14,16 @@
 ## Übersicht
 
 ### Wo finde ich die Einstellungen?
-Die Einstellungen von Deinem Affekt-System findest Du an zwei Stellen.
-* Klicke das Einstellungen-Symbol auf der Linken Quick-Panel Leiste
-* Klicke auf dein User-Avatar-Bild oben rechts und dann auf SETTINGS
+Die Einstellungsmöglichkeiten von Deinem Affekt-System findest Du an zwei Stellen.
+* Klicke auf das Einstellungs-Symbol auf der linken Quick-Panel Leiste.
+* Klicke auf Dein User-Avatar-Bild oben rechts und dann auf SETTINGS.
 
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/Ud4ObNc277.png" width="500">
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/k4mWHhXsXG.png" width="500">
 
 ### Auswahl Deines Audio Managements / Record Labels
-Wähle auf der farbigen Tab-Leiste dein Record Label, welches Du einstellen möchtest.
-Es werden hier hintereinander, alle Audio Managements aufgelistet, die zu Deinerm Kunden bei Affekt zugehörig sind.
+Wähle auf der farbigen Tab-Leiste Dein Record Label, welches Du einstellen möchtest.
+Es werden hier hintereinander, alle Audio Managements aufgelistet, die zu Deinen Kunden bei Affekt gehören.
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/GvFZYZ4QFh.png" width="500">
 
 <a name="allgemeine-einstellungen"></a>
@@ -31,9 +31,9 @@ Es werden hier hintereinander, alle Audio Managements aufgelistet, die zu Deiner
 ### Exklusivitäts-Typen
 Wir haben für jeden Record Label Start 4 Exklusivitäts-Typen standardmäßig festgelegt.
 1. exclusive - für alle Tracks, die exklusiv zu Deinem Repertoire im Label gehören, für Compilations jedoch einen gesonderten Vertrag benötigen
-2. non-exclusive-full - für alle Tracks, die zu exklusiv zu Deinem Repertoire gehören und eine Lizenz für die Verkompilierung vorhanden ist
+2. non-exclusive-full - für alle Tracks, die exklusiv zu Deinem Repertoire gehören und eine Lizenz für die Verkompilierung vorhanden ist
 3. non-exclusive - für alle Tracks, die non-exklusive zu Deinem Repertoire gehören
-4. not-available - für Tracks, die keine Lizenz zur Veröffentlichung auf Deinem Label mehr haben, zum Beispiel ältere abgelaufene Lizenzen (diese Tracks müssen jedoch in der Datenbank wegen Abrechnungen bleiben)
+4. not-available - für Tracks, die keine Lizenz zur Veröffentlichung auf Deinem Label mehr haben, zum Beispiel ältere abgelaufene Lizenzen (diese Tracks müssen jedoch wegen Abrechnungen in der Datenbank bleiben)
 
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/PDU2CrSxJw.png" width="500">
 
@@ -43,7 +43,7 @@ Wir haben für jeden Record Label Start 4 Exklusivitäts-Typen standardmäßig f
 
 <a name="module-an-und-abschalten"></a>
 ## Module an- und abschalten
-Wir entwickeln jeder Zeit an coolen neuen Funktionen für Record Labels, stellen Dir jedoch die Möglichkeit zur Verfügung einzelne Module wieder abzuschalten. Wenn Du ein Modul nicht benötigst, dann stelle es ab. Im Hintergrund löschen wir jedoch keine Daten, solltest Du ein Modul schon eimmal benutzt haben. Wir blenden es nur aus.
+Wir entwickeln ständig neue coole Funktionen für Record Labels, stellen Dir jedoch die Möglichkeit zur Verfügung, einzelne Module wieder abzuschalten. Wenn Du ein Modul nicht benötigst, dann stelle es ab. Solltest Du ein Modul schon eimmal benutzt haben, löschen wir im Hintergrund jedoch keine Daten. Wir blenden es nur aus.
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/jyBnoCaIHY.png" width="500">
 
 ### Überblick der Entwicklung von Modulen
@@ -62,12 +62,12 @@ Für ausgehende E-Mails kannst Du hier bestimmte CC Adressen angeben. Bitte trag
 | # | Name   | Beschreibung |
 | : |   :-   |  -:-  |
 | 1 | Release Info Email | Eine Release Information, die an Deinen Künstler geht. Unter RELEASES haben wir ein Tool eingebaut, mit dem Du Deinen Künstler über den Status seines Releases auf Deinem Label benachrichtigen kannst. |
-| 2 | Royalty Email | Diese Email beinhaltet das Royalty-Statement, das Du an Deine Künstler verschickst. Unter ACCOUNTS und dem jeweiligen abzurechnenden Künstler findest Du diese Tools. |
+| 2 | Royalty Email | Diese Email beinhaltet das Royalty-Statement, das Du an Deine Künstler verschickst. Unter ACCOUNTS und dem jeweiligen abzurechnenden Künstler findest Du diese Tools. |   
 
 <a name="sales-einstellungen"></a>
 ## Sales Einstellungen
 ### Systemübergreifende Währung
-Bitte definiere Deine Grund-Währung, mit der Du in Deinem Record Label arbeitest. Wir supporten derzeit nur eine einzige Währung pro **Audio Management**. Diese Währung wird für Deine Künstler in ihren eigenen Übersichten angezeigt und ebenso auf den Royalty Statements.
+Bitte definiere Deine Grund-Währung, mit der Du in Deinem Record Label arbeitest. Wir unterstützen derzeit nur eine einzige Währung pro **Audio Management**. Diese Währung wird für Deine Künstler in ihren eigenen Übersichten angezeigt und ebenso auf den Royalty Statements.
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/HAMATsZ0Bs.png" width="500">
 
 ### Abrechnungs-Basen
@@ -97,7 +97,7 @@ Du kannst weitere spezielle Arten der Abrechnung dazuschalten, wenn Du sie brauc
 
 <a name="distributor-einstellungen"></a>
 ## Distributoren Einstellungen
-Du findest hier unseren bisher unterstützten Distributoren mit ihren FTP-Einstellungen wider. Bitte gebe hier die FPT-Zugangsdaten ein, die dein Distributor auf dem jeweiligen Backend zur Verfügung stellt. Unser System ist in der Lage, automatisch alle WAV Dateien eines Releases während des PUBLISHING Vorgangs auf den FTP-Servers des Distributors hochzuladen.
+Du findest hier unsere bisher unterstützten Distributoren mit ihren FTP-Einstellungen. Bitte gebe hier die FPT-Zugangsdaten ein, die Dein Distributor auf dem jeweiligen Backend zur Verfügung stellt. Unser System ist in der Lage, automatisch alle WAV Dateien eines Releases während des PUBLISHING Vorgangs auf den FTP-Servers des Distributors hochzuladen.
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/YS3Ty4N6H7.png" width="800">
 
 <a name="isrc-root"></a>

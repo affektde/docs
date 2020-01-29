@@ -1,6 +1,6 @@
 
 
-# Overview 
+# Übersicht
 
 ---
 
@@ -26,15 +26,15 @@ In Deinen SETTINGS kannst Du ein neues Spotify-Konto auf der Registerkarte PLAYL
 
 <a name="wie-funktioniert-das-reputationssystem"></a>
 ## Wie funktioniert das Reputationssystem?
-Mit verschiedenen Aktionen in der Affekt-Anwendung kannst Du Punkte sammeln. Es gibt auch Aktionen, mit denen Punkte von Deinem Konto abgezogen werden können. Mit diesem System wollen wir unseren Kuratoren und allen Nutzern helfen, vertrauenswürdige Einreicher/Kuratoren zu finden.
+Mit verschiedenen Aktionen kannst Du in der Affekt-APP Punkte sammeln. Es gibt auch Aktionen, mit denen Punkte von Deinem Konto abgezogen werden können. Mit diesem System wollen wir unseren Kuratoren und allen Nutzern helfen, vertrauenswürdige Submitter/Kuratoren zu finden.
 
 - Erstellen einer Submission Page
     - +100 Punkte
 - Akzeptieren eines eingereichten Titels und hinzufügen zur Wiedergabeliste.
-    - +1.000 Punkte für den Einreicher und den Kurator
+    - +1.000 Punkte für den Submitter und den Kurator
 - Senden einer Track Submission
-    - +10 Punkte für den Einreicher
-- Eine Track-Einreichung wurde abgelehnt
+    - +10 Punkte für den Submitter
+- Eine Track-Submission wurde abgelehnt
     - 10 Punkte für den Submitter
 - Ein zuvor akzeptierter Titel wurde wieder aus der Wiedergabeliste entfernt.
     - -1.000 Punkte für den Submitter und den Kurator
@@ -47,8 +47,7 @@ Mit verschiedenen Aktionen in der Affekt-Anwendung kannst Du Punkte sammeln. Es 
 
 ## Dashboard
 
-Das Playlist Exchange **Dashboard** zeigt Dir auf der linken Seite unter **Submissions received** einen Überblick über alle Submissions
-die Du bereits erhalten hast.
+Das Playlist Exchange **Dashboard** zeigt Dir auf der linken Seite unter **Submissions received** einen Überblick über alle Submissions die Du bereits erhalten hast.
 
 Auf der rechten Seite findest Du unter **My Submissions** den Status aller Tracks, die du bei anderen Playlists submitted hast.
 
@@ -57,7 +56,7 @@ Unter **Playlist Followers** wird Dir der Anstieg Deiner Followerzahlen all Dein
 
 AFFEKT - let´s rise together
 
-# Zusätzlich ? 
+# Übersicht 2 
 
 ---
 
@@ -67,20 +66,19 @@ AFFEKT - let´s rise together
 <a name="was-ist-playlist-exchange"></a>
 ## Was ist Playlist Exchange?
 
-**AFFEKT Playlist Exchange** ist ein Austauschnetzwerk von Playlist-Besitzern für Streaming-Plattformen. Zunächst richten wir einen Spotify-Uplink ein. Die App vereinfacht das Pitching der Tracks Eurer Wiedergabelisten zu anderen Wiedergabelisten.
+**AFFEKT Playlist Exchange** ist ein Austauschnetzwerk von Playlist-Besitzern für Streaming-Plattformen. Die App vereinfacht das Pitching der Tracks Eurer Wiedergabelisten zu anderen Wiedergabelisten.
 
 
 Sei Teil eines riesigen Kuratorennetzwerks und promote deine Tracks an erfolgreiche Spotify-Playlisten.
 
-So steigerst du die organische Reichweite deiner Tracks, erhöhst die Zahl deiner Follower und förderts Engagement
+So steigerst Du die organische Reichweite Deiner Tracks, erhöhst die Zahl Deiner Follower und förderts Engagement.
 
 <a name="dashboard"></a>
 ## Dashboard
 
-Das Playlist Exchange **Dashboard** zeigt Dir auf der linken Seite unter **Submissions received** einen Überblick über alle Submissions
-die Du bereits erhalten hast.
+Das Playlist Exchange **Dashboard** zeigt Dir auf der linken Seite unter **Submissions received** einen Überblick über alle Submissions die Du bereits erhalten hast.
 
-Auf der rechten Seite findest Du unter **My Submissions** den Status aller Tracks, die du bei anderen Playlists submitted hast.
+Auf der rechten Seite findest Du unter **My Submissions** den Status aller Tracks, die du bei anderen Playlists submitted/eingereicht hast.
 
 Unter **Playlist Followers** wird Dir der Anstieg Deiner Followerzahlen all Deiner öffentlichen Playlisten als Statistik angezeit.
 

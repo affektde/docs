@@ -17,5 +17,5 @@ Füge dann Deine Tracks ganz einfach zu Deinem "Release Planer" hinzu oder integ
 ## Showcase
 Track Showcase bietet Dir den kompletten Überblick  über all Deine Tracks, filterbar nach ID, Artists, Catalog, Genres und Tags.
 
-Hier kannst du unter "LABELCOPPY" auch alle dem Track zugehörigen Daten runterladen, sowie die "MP3" oder WAV Datei Deines Titels.
+Hier kannst du unter "LABELCOPPY" auch alle, dem Track zugehörigen Daten runterladen, sowie die "MP3" oder WAV Datei Deines Titels.
 

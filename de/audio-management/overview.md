@@ -16,7 +16,7 @@
 
 Affekt ist die moderne Art, Deinen Work Flow mit Labels, Sub-Labels und Artist Services zu professionalisieren, um Dir mehr Freiheit für Deine Kreativität zu ermöglichen. So ist **AFFEKT Audio Management** ein vollständiges Management-System für Dein digitales Musikgeschäft, sei es als Tool, um Dein eigenes Plattenlabels zu managen oder als Track-Management- und Promotion-Tool für Künstler.
 AFFEKT Audio Management wurde mit Blick auf die bestmögliche Nutzerfreundlichkeit und effektive Arbeitsweise eines modernen Plattenlabels entwickelt.
-Wichtige Daten werden nur einmal angelegt, um bestmögliche Skalierbarkeit zu erzeugen, so dass Du auch mehrere große Labels problemlos aufbauen und betreuen kannst. Affekt ist als **"All in one solution"** das Herzstück Deines modernen Plattenlabels. Alle Label-Daten, Tracks und Releases sind in unserer Software vereint und durch unsere Multi-Distributoren-Anbindung bist Du unabhängig.
+Wichtige Daten werden nur einmal angelegt, um bestmögliche Skalierbarkeit zu erzeugen, so dass Du auch mehrere große Labels problemlos aufbauen und betreuen kannst. Affekt ist als **"all in one solution"** das Herzstück Deines modernen Plattenlabels. Alle Label-Daten, Tracks und Releases sind in unserer Software vereint und durch unsere Multi-Distributoren-Anbindung bist Du unabhängig.
 Affekt ist Dein Musik-Ökosystem mit einer Vielzahl an innovativen Tools und Kooperationsmöglichkeiten für Deine erfolgreiche Karriere im Musik-Business.
 
 <a name="first-steps"></a>
@@ -30,7 +30,7 @@ Alle weiteren Detailinformationen zu Features und Anwendungsmöglichkeiten finde
 ## Chat
 Über unsere Chat-Funktion kannst du innerhalb Deines Accounts mit allen Teammitgliedern und Partnern chatten, ohne Affekt zu verlassen.
 So soll ein projektbezogener smoother Workflow zwischen Record Label, Artists, Promotern und Partnern ermöglicht werden um alle Team-Synergien bestmöglich nutzen zu können.
-Als Zusatzfeature kannst Du dir auch die Nachrichten vorlesen lassen.
+Als Zusatzfeature kannst Du Dir auch die Nachrichten vorlesen lassen.
 
 <a name="ideas-vote"></a>
 ## Ideen und Feedback
