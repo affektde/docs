@@ -44,17 +44,17 @@ With different actions in the Affekt application you can earn points. There are 
     - -1.000 points
     
     
-# Additionally ? 
+# Overview 2 
 
 ---
 
-- [What is  Playlist Exchange?](#what-is-playlist-exchange)
+- [What-is-playlist-exchange?](#what-is-playlist-exchange)
 - [Dashboard](#dashboard)
 
 <a name="what-is-playlist-exchange"></a>
 ## What is Playlist Exchange ?
 
-**AFFEKT Playlist Exchange** is an exchange network of playlist owners for streaming platforms. First we set up a Spotify uplink. The app makes it easy to pitch the tracks in your playlists to other playlists.
+**AFFEKT Playlist Exchange** is an exchange network of playlist owners for streaming platforms. The app makes it easy to pitch the tracks in your playlists to other playlist owners.
 
 Be part of a huge network of curators and promote your tracks to successful Spotify playlists.
 
@@ -70,7 +70,7 @@ On the right side you will find under **My Submissions** the status of all track
 Under **Playlist Followers** you can see the increase of your followers of all your public playlists as statistics.
 
 
-AFFEKT - let´s rise together
+AFFEKT - let´s rise together       
 
 
     

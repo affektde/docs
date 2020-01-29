@@ -5,7 +5,7 @@
 - [What are accounts?](#what-are-accounts)
 
 <a name="what-are-accounts"></a>
-## What are accounts?
+## What are accounts?  
 An account represents the account of an artist or licensor. The affect system allows you to combine several artists/contributors in one account.
 
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/GvFZYZ4QFh.png" width="500">

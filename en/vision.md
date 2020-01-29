@@ -10,7 +10,7 @@
 Our goal is to be the most professional and innovative software solution for digital audio management.  
 Our focus here is on **Audio Management** and **Playlist Exchange**.
 **AFFEKT Audio Management** is the modern way to found, manage and monetize your own professional record label to realize your musical vision.
-**Playlist Exchange**: Become part of a huge network of curators and promote your tracks directly to successful Spotify playlists.
+**Playlist Exchange** enables you to become part of a huge network of curators to promote your tracks directly to successful Spotify playlists.
 **AFFEKT - enjoy the process**
 
 <a name="structure"></a>
@@ -21,4 +21,4 @@ In the background, we have been building a professional database structure for m
 - All-In-One-Place
     - Easy export options
     - Taking the data to other systems
-    - API interface, for own queries
+    - API interface, for own queries  

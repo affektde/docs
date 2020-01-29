@@ -10,7 +10,7 @@
 <a name="curator"></a>
 ## Playlist Exchange - For Curators
 
-First create your personal affect account. Once you have created it, you will be prompted to connect to your **Spotify Account**. Now connect your Affect account with your Spotify account and after successful connection you will be redirected to our Paylist Exchange Dashboard.
+First create your personal Affekt account. Once you have created it, you will be prompted to connect to your **Spotify Account**. Now connect your Affect account with your Spotify account and after successful connection you will be redirected to our Paylist Exchange Dashboard.
 
 <a name="my-playlists"></a>
 ## My Playlists
@@ -21,7 +21,7 @@ First choose a playlist. (via the Spotify Icon you can also view it directly in 
 
 By clicking on the **"+"** sign and then **CREATE SUBMISSION PAGE** you create your individual submission page for this playlist.
 
-Then assign a "Genre", a "Headline"  and a "Subtitel"  to your playlist and click on **NEXT**
+Then assign a "Genre", a "Headline"  and a "Subtitel"  to your playlist and click **NEXT**
 
 You can also define some conditions that the submitter has to fulfill in order to submit his track.
 
@@ -36,7 +36,7 @@ Next to the pencil symbol for editing, you can open your newly created submissio
 
 **My Landing Page** allows you to present all your playlists on one searchable landing page.
 
-Create a name for your playlist (this will be copied into the link...) as well as "Title" and "Subtitle" to describe your playlist.
+Create a name for your playlist (this will be copied into the link) as well as "Title" and "Subtitle" to describe your playlist.
 
 You can also add a background image and your own logo to your landing page.
 
@@ -55,7 +55,7 @@ Click on the new submission and proceed as follows.
 
 At the top you will immediately see under **Submitter's retutation** an indication of the general quallity of the submitter, here you have a first impression how well the submissions of this person on our platform were evaluated.
 
-The following steps must now be taken..
+The following steps must now be taken.
 
 1) Listen to the submitted title and evaluate if you like it and want to add it to your playlist or reject the submitted title. 
 If the title does not correspond to your genre and you think it is spam, please let us know via the red button **WRONG GENRE / INAPPROPRIATE** to ensure the greatest value for you and other users.

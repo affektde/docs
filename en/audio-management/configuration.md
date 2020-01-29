@@ -1,8 +1,8 @@
-# Konfiguration 
+# Configuration 
 
 ---
 
-- [Overview](#Overview)
+- [Overview](#overview)
 - [General settings](#general-settings)
 - [Switching modules on and off](#switching-modules-on-and-off)
 - [E-mail settings](#email-settings)
@@ -10,12 +10,12 @@
 - [Distributor settings](#distributor-settings)
 - [Define ISRC root](#isrc-root)
 
-<a name="Overview"></a>
+<a name="overview"></a>
 ## Overview      
 
 ### Where can I find the settings?
-You will find the settings of your affect system in two places.
-* Click the Settings icon on the left quick panel bar
+You will find the settings of your Affekt system in two places.
+* Click the settings icon on the left quick panel bar
 * Click on your user avatar picture in the upper right corner and then on SETTINGS
 
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/Ud4ObNc277.png" width="500">
@@ -44,7 +44,7 @@ We have defined 4 exclusivity types for each Record Label Start by default.
 <a name="switching-modules-on-and-off"></a>
 ## Switching modules on and off
 We are always developing cool new functions for record labels, but we also offer you the possibility to switch off single modules. If you do not need a module, turn it off. However, we do not delete any data in the background if you have already used a module once. We just hide it.
-<img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/jyBnoCaIHY.png" width="500">
+<img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/jyBnoCaIHY.png" width="500">  
 
 ### Overview of module development
 | # | Name   | Status |
@@ -53,8 +53,8 @@ We are always developing cool new functions for record labels, but we also offer
 | 2 | Demos / Preview Tracks | experimental - in development |
 | 3 | DJ-Sets | experimental - in development |
 
-<a name="email-einstellungen"></a>
-## E-mail settings
+<a name="email-settings"></a>
+## E-mail settings           
 For outgoing e-mails you can specify specific CC addresses here. Please enter your desired addresses here..
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/4nT1bAprgq.png" width="500">
 
@@ -100,7 +100,7 @@ You can add other special types of billing if you need them.
 Here you will find our previously supported distributors with their FTP settings. Please enter here the FPT access data that your distributor provides on the respective backend. Our system is able to automatically upload all WAV files of a release to the FTP server of the distributor during the PUBLISHING process.
 <img src="https://affekt-assets.s3-eu-central-1.amazonaws.com/docs/YS3Ty4N6H7.png" width="800">
 
-<a name="define-ISRC-root"></a>
+<a name="isrc-root"></a>
 ## Define ISRC root
 Please enter here your ISRC roots, which you use for a record label. We have built an integrated ISRC manager to help you not to skip consecutive numbers or even worse to create duplicates.
 

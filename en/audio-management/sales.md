@@ -11,4 +11,4 @@ broken down into years, quarterly figures or monthly calculations.
 
 Our goal is to make the billing processes for labels and artists as efficient and transparent as possible.
 
-AFFEKT - enjoy the process     
+AFFEKT - enjoy the process             

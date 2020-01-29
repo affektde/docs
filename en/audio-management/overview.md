@@ -10,13 +10,13 @@
 
 <a name="what-is-affekt-audio-management"></a>
 ## What is Affekt Audio Management?
-**AFFEKT Audio Management** is your professional software to support your vision and creativity in the modern music business and to manage the business side efficiently and effectively. 
+**AFFEKT Audio Management** is your professional software to support your vision and creativity in the modern music business to manage the business side efficiently and effectively. 
 
 > {primary} AFFEKT - be your own major record label 
 
 AffeKt is the modern way to professionalize your work flow with labels, sub-labels and artist services to give you more freedom for your creativity. **AFFEKT Audio Management** is a complete management system for your digital music business, be it as a tool to manage your own record label or as a track management and promotion tool for artists.
 AFFEKT Audio Management was developed with the best possible user-friendliness and effective operation of a modern record label in mind.
-Important data is created only once to create the best possible scalability, so that you can easily build and maintain several large labels. AffeKt is an **"All in one solution"** software and the heart of your modern record label. All label data, tracks and releases are united in our software and through our multi-distributor connection you are independent.
+Important data is created only once to create the best possible scalability, so that you can easily build and maintain several large labels. Affekt is an **"All in one solution"** software and the heart of your modern record label. All label data, tracks and releases are combined in our software and through our multi-distributor connection you are independent of individual providers.
 Affekt is your music ecosystem with a variety of innovative tools and cooperation possibilities for your successful career in the music business.
 
 <a name="first-steps"></a>
