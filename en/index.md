@@ -15,3 +15,5 @@
     - [Curator](/{{route}}/{{version}}/playlist-exchange/curator)
     - [Artist](/{{route}}/{{version}}/playlist-exchange/artist)
     - [Promotion](/{{route}}/{{version}}/playlist-exchange/promotion)
+- ## Development
+    - [Changelog](/{{route}}/{{version}}/changelog)
