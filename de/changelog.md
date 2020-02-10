@@ -10,14 +10,17 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - [v3.4.0build1004](#v3.4.0build1004)
 
 <a name="v3.4.0build1005"></a>
-## [v3.4.0build105] - 2020-02-10
+
 ## [v3.4.0build1005] - 2020-02-10
+
 ### Changed
  - `imageRender` refaktoriert, damit diese Funktion nicht allzu oft dupliziert wird
+ 
 ### Fixed
  - `CORS-Headers` hinzugefügt, damit einige Javascript-Funktionen als `XHR` funktionieren
  - `Left-Side-Panel` Links zu den einzelnen `Audio-Managements` als `window.open` definiert, weil sie durch die Auth0 Routinen durchgehen müssen
  - `ImageUploader` für die `Audio-Managements` konfiguriert
+ 
 ### Added
 - `Labelcopy`-Download für einen Track hinzugefügt
 - `Excel`-Exports neu definiert und eingestellt
@@ -48,6 +51,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
  - `react-app-polyfill` entfernt, damit das Bundle-Paket kleiner wird
  - `n+1-Problem` bei `customer-online` gelöst
  - `searchForApplications` gecached damit die Seitenladezeit sich drastisch verringert
+ 
 ### Fixed
  - die `Media-Library` Url gefixed, damit Dateien richtig auf die `Amazon S3` hochgeladen werden
  - `Echo Pusher Service` wurde mehrfach initialsiert; liegt nun in `app.js` und wird einfach geladen
