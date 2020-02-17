@@ -22,7 +22,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Fixed
 
-- `imageRender` bei `My Playlists` korrigiert (Bilder wurden nicht richtig geladen)
+- `AvatarImageComponent` bei `My Playlists` korrigiert (Bilder wurden nicht richtig geladen)
 - `PrismCode` korrigiert, da `window.Prism` nicht definiert war - `styles/prism.css` zum Index hinzugefügt
 - `Auth0 invalid state` für `Audio Management`-Logins versucht zu beheben
 - `Request-Authorizations` für `Playlist-Exchange` gefixed
@@ -44,7 +44,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Changed
 
-- `imageRender` refaktoriert, damit diese Funktion nicht allzu oft dupliziert wird
+- `AvatarImageComponent` refaktoriert, damit diese Funktion nicht allzu oft dupliziert wird
 
 ### Fixed
 
