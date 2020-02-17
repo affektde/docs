@@ -6,9 +6,52 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+- [v4.0.1build1000](#v4.0.1build1000)
 - [v4.0.0build1000](#v4.0.0build1000)
 - [v3.4.0build1005](#v3.4.0build1005)
 - [v3.4.0build1004](#v3.4.0build1004)
+
+<a name="v4.0.1build1000"></a>
+
+## [v4.0.1build1000] - 2020-02-17
+
+### Added
+
+- `Track-Edit` und `Track-Create` - man kann ab nun Tracks editieren und erstellen - die komplette Editierungs-Ansicht wurde überarbeitet und verbessert
+- `Track-License-Overview` - eine Lizenzübersicht zum ein- und wiederausklappen
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_ndcaESN7IS.png)
+
+- ein `ISRC-Manager` - ISRCs aus dem Root werden automatisch hochgezählt oder eine eigene ISRC kann vergeben werden und dem Track attached werden
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_r0fsXvPQ9b.png)
+
+- `Lizenz-Verwaltung` eines Tracks pro Artist - unter jeden `Artist` wird nun angezeigt, welche `Shares` dieser besitzt - `bei Artists` ohne `Shares` bleibt die Ansicht frei
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_s2OyL0yUEP.png)
+
+- `Last Catalog Number` - die nächste Katalog-Nummer wird automatisch berechnet und angezeigt - mit einem Button-Klick kann man die nächste Nummer automatisch ausfüllen lassen
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_K2tsyoCIax.png)
+
+- den `Audio-Player` komplett neu rekonzipert, da das `Wavesurfer-Plugin` in einer neuen Version vorliegt - stabiler und schneller mit nativem React Code und eigene Komponente
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/0ycDINCAqF.png)
+
+### Changed
+
+- Routen optimiert - alle Routen haben Namen bekommen und wurde refaktoriert, so dass man einfach copy-pasten kann
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/ConEmu64_7IpiTLJvoY.png)
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/phpstorm64_wRyUNsM8vW.png)
+
+- Update auf das neue `fuse v4.0.1` - Lizenz um ein weiteres Jahr verlängert
+
+### Fixed
+
+- das Vorlesen von eingehenden neuen `Playlist-Submissions` wieder korrigiert - dazu wird es bald ein Quick-Setting zum Abschalten geben (auf der rechten Seite)
+- `vapor deploy` korriegiert, da Symlinks nicht mehr funktioniert haben
+- Dashboard Items limitiert, damit die Datenmenge nicht zu groß wird
 
 <a name="v4.0.0build1000"></a>
 
