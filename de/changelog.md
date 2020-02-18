@@ -6,10 +6,33 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+- [v4.0.1build1001](#v4.0.1build1001)
 - [v4.0.1build1000](#v4.0.1build1000)
 - [v4.0.0build1000](#v4.0.0build1000)
 - [v3.4.0build1005](#v3.4.0build1005)
 - [v3.4.0build1004](#v3.4.0build1004)
+
+<a name="v4.0.1build1001"></a>
+
+## [v4.0.1build1001] - 2020-02-18
+
+### Added
+- die `Avatare` auf der rechten Leiste sind nun klickbar
+	- die Links führen zu einer `public` Profilseite des Users
+	- dort werden zunächst seine Submission Pages angezeigt und kann dort direkt auf die Submission Page klicken
+	- in Planung sind `Direct-Chat` und `Releases`
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_Q2Vf3ndHK7.png)
+
+- `Profile-Seite`
+	- der Header-Bereich kann mit einem eigenem Titel-Bild versehen werden
+	- in Planung sind ebenso `Activity-Log`, um anzuzeigen, wie aktiv der User auf der Plattform ist
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_ngpEpiMWks.png)
+
+### Changed
+- das `Layout-System` wurde geändert, damit die Unter-Laylouts nicht neu geladen werden müssen
+	- für den `Audio-Player` wichtig, damit dieser bei wechsel der Page nicht unterbrochen wird
 
 <a name="v4.0.1build1000"></a>
 
