@@ -6,33 +6,51 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+- [v4.0.1build1002](#v4.0.1build1002)
 - [v4.0.1build1001](#v4.0.1build1001)
 - [v4.0.1build1000](#v4.0.1build1000)
 - [v4.0.0build1000](#v4.0.0build1000)
 - [v3.4.0build1005](#v3.4.0build1005)
 - [v3.4.0build1004](#v3.4.0build1004)
 
+<a name="v4.0.1build1002"></a>
+
+## [v4.0.1build1002] - 2020-02-21
+
+### Changed
+
+- die `Playlist Overview` Page wurde komplett überarbeitet - ist nun eingebunden im `Fuse-Theme` und ist somit besser zum Warten - steht in direkter Verbindung mit dem Login-System, so dass wir an der Seite zB zusätzliche Informationen und Links für den User darstellen können - anhand von "Vorlieben" des Users, könnte man in Zukunft auf der rechten Leiste `recommended` Playlisten anzeigen lassen - eingeloggten Usern können sehr viele vorteilhafte Funktionen an der Seitenleiste präsentiert werden, so dass er die gesamte Affekt-World im Überblick hat
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_uRP5tO1Qev.png)
+
+- das gleiche System wurde bei den `User-Profiles` eingesetzt - man kann nun die Playlisten des Users filtern
+- die Anzeige der `Reputation` wurde auf die Profilseite hinzugefügt
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_HyZ4p4d5NH.png)
+
+### Added
+
+- für die Playlisten gibt es nun einen besseren Filter - man klickt auf das Genre und die Liste wird unten performanter sortiert - die Playliste-Ergebnisse sind in einem eigenem `Scroll-View` eingebaut, so dass das Scroll-Verhalten verbessert wurde
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_CCktAhyDTf.png)
+
 <a name="v4.0.1build1001"></a>
 
 ## [v4.0.1build1001] - 2020-02-18
 
 ### Added
-- die `Avatare` auf der rechten Leiste sind nun klickbar
-	- die Links führen zu einer `public` Profilseite des Users
-	- dort werden zunächst seine Submission Pages angezeigt und kann dort direkt auf die Submission Page klicken
-	- in Planung sind `Direct-Chat` und `Releases`
+
+- die `Avatare` auf der rechten Leiste sind nun klickbar - die Links führen zu einer `public` Profilseite des Users - dort werden zunächst seine Submission Pages angezeigt und kann dort direkt auf die Submission Page klicken - in Planung sind `Direct-Chat` und `Releases`
 
 ![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_Q2Vf3ndHK7.png)
 
-- `Profile-Seite`
-	- der Header-Bereich kann mit einem eigenem Titel-Bild versehen werden
-	- in Planung sind ebenso `Activity-Log`, um anzuzeigen, wie aktiv der User auf der Plattform ist
+- `Profile-Seite` - der Header-Bereich kann mit einem eigenem Titel-Bild versehen werden - in Planung sind ebenso `Activity-Log`, um anzuzeigen, wie aktiv der User auf der Plattform ist
 
 ![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_ngpEpiMWks.png)
 
 ### Changed
-- das `Layout-System` wurde geändert, damit die Unter-Laylouts nicht neu geladen werden müssen
-	- für den `Audio-Player` wichtig, damit dieser bei wechsel der Page nicht unterbrochen wird
+
+- das `Layout-System` wurde geändert, damit die Unter-Laylouts nicht neu geladen werden müssen - für den `Audio-Player` wichtig, damit dieser bei wechsel der Page nicht unterbrochen wird
 
 <a name="v4.0.1build1000"></a>
 
