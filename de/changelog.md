@@ -6,6 +6,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+- [v4.0.1build1003](#v4.0.1build1003)
 - [v4.0.1build1002](#v4.0.1build1002)
 - [v4.0.1build1001](#v4.0.1build1001)
 - [v4.0.1build1000](#v4.0.1build1000)
@@ -13,13 +14,41 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - [v3.4.0build1005](#v3.4.0build1005)
 - [v3.4.0build1004](#v3.4.0build1004)
 
+<a name="v4.0.1build1003"></a>
+
+## [v4.0.1build1002] - 2020-02-21
+
+### Changed
+
+- `Javascript-Bundle` drastisch optimiert, da nun das `Code-Splitting` funktioniert - das gesamte Paket (vorher 6MB), das geladen werden muss, ist nun in XX kleine Teile gesplittet
+  - die kleinen Pakete werden asynchron geladen, wenn sie benötigt werden
+  - die Gesamt-Daten-Menge beim Start der App ist somit drastisch verkleinert worden
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_8YxjZhoG2N.png)
+
+- `Chart.js` entfernt, da wir `devextreme` Module benutzen werden
+- `Datenbank-Queries` optimiert - für die `Playlist-Overview` Page `Eager Loading` Queries verfasst, so dass die initiale Ladezeit drastisch optimiert ist (unter 2 Sekunden)
+- `inline-source-map` aus dem `production-bundle` entfernt, um weitere Kilobytes zu sparen
+- das Logout und Login Verhalten verbessert - Redirects richtig eingesetzt, damit man an die Stelle zurückkommt wo man vorher war
+
+### Added
+
+- `new` Ribbon hinzugefügt und Filter an den Anfang gesetzt, um die neusten `submission pages` zu filtern
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_TtVjRPPsvC.png)
+
+- Playlisten geblockt, an der man im aktuellen Kalender-Monat schon eine Submission gesendet hat - der Mauszeiger zeigt "blocked" an - die `Card` ist ausgegraut - Anzeige der Anzahl, der schon verschickten submissions - bei Klick kommt der Hinweis, über die Erweiterung von `Playlist Exchange`
+
+![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_GxavY9ibrs.png)
+
 <a name="v4.0.1build1002"></a>
 
 ## [v4.0.1build1002] - 2020-02-21
 
 ### Changed
 
-- die `Playlist Overview` Page wurde komplett überarbeitet - ist nun eingebunden im `Fuse-Theme` und ist somit besser zum Warten - steht in direkter Verbindung mit dem Login-System, so dass wir an der Seite zB zusätzliche Informationen und Links für den User darstellen können - anhand von "Vorlieben" des Users, könnte man in Zukunft auf der rechten Leiste `recommended` Playlisten anzeigen lassen - eingeloggten Usern können sehr viele vorteilhafte Funktionen an der Seitenleiste präsentiert werden, so dass er die gesamte Affekt-World im Überblick hat
+- die `Playlist Overview` Page wurde komplett überarbeitet - ist nun eingebunden im `Fuse-Theme` und ist somit besser zum Warten - steht in direkter Verbindung mit dem Login-System, so dass wir an der Seite zB zusätzliche Informationen und Links für den User darstellen können - anhand von "Vorlieben" des Users, könnte man in Zukunft auf der rechten Leiste `recommended` Playlisten anzeigen lassen
+  - eingeloggten Usern können sehr viele vorteilhafte Funktionen an der Seitenleiste präsentiert werden, so dass er die gesamte Affekt-World im Überblick hat
 
 ![enter image description here](https://s3.eu-central-1.amazonaws.com/affekt-assets/share/2020/02/chrome_uRP5tO1Qev.png)
 
